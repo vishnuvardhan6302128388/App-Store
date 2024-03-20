@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-container {
+  background-color: white;
+  background-repeat: cover;
+  padding: 10px;
+  height: 180px;
+  width: 180px;
+  padding-top: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.images {
+  width: 100px;
+  padding-top: 20px;
+}
+h1 {
+  font-size: 20px;
+  font-family: Bree Serif;
+  text-align: center;
+}
